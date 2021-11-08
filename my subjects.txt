@@ -3,3 +3,5 @@ My subjects
 Advance Java
 Artificial Intelligence
 Object Oriented Programming
+
+end of sem 1
